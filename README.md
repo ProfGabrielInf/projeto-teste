@@ -2,4 +2,4 @@
 
 ## Projeto Utilizando o GitHub e o GitHub Desktop
 
-# Curso de Github
+### Curso de Github
